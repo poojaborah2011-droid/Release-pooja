@@ -1,0 +1,7 @@
+Project: Oracle EBS R12 Foundation
+Release Frequency: Every 3 Weeks
+Environment: DEV, TST, UAT, PROD
+Release Coordinator: Release Manager
+Testing Status: Pending
+Deployment Status: Pending
+Production Approval: Pending
